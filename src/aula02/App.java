@@ -3,7 +3,8 @@ package aula02;
 public class App {
 
 	public static void main(String[] args) {
-		System.out.println("Programaçao avança 1");
+		System.out.println("Programaï¿½ao avanï¿½a 1");
+		System.out.println("Editado por AndrÃ©");
 	}
 
 }
